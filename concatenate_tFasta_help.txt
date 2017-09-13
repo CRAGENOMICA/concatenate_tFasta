@@ -1,0 +1,6 @@
+## concatenate_tFasta v0.1 (20170913) Jordi Leno-Colorado
+## Script to concatenate different tFasta files
+
+Usage: ./concatenate_tFasta.sh list_tfastas.txt outputname
+	list_tfasta.txt: list with tFasta to concatenate (with or without path), these tFasta file could be compressed or uncompressed
+	outputname: name for the output tFasta file

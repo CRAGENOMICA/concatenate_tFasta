@@ -1,0 +1,3 @@
+example_chr_1.tfa.gz
+example_chr_2.tfa.gz
+example_chr_3.tfa.gz
