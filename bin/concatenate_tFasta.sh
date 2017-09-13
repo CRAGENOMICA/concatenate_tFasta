@@ -35,4 +35,4 @@ for f in `cat $list`; do
     fi
 done
 
-#gzip $output.tfa
+gzip $output.tfa
