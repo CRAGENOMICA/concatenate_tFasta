@@ -7,10 +7,11 @@ cd ./Examples
 
 # Run examples
 
+echo
 echo -----------------------------------------------------------------------
 echo Example 1. Concatenate 3 tFasta files, each tFasta with one chromosome
 echo -----------------------------------------------------------------------
 echo
-echo ../bin/concatenate_tFasta.sh list_tfasta.txt example_merged
-../bin/concatenate_tFasta.sh list_tfasta.txt example_merged
+echo "sh ../bin/concatenate_tFasta.sh list_tfasta.txt example_merged"
+sh ../bin/concatenate_tFasta.sh list_tfasta.txt example_merged
 echo
